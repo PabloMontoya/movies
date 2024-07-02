@@ -3,24 +3,24 @@ version: "3.8"
 services:
   frontend:
     build:
-      context: .
+      context: ./frontend
       dockerfile: Dockerfile.dev
     volumes:
-      - ./frontend:/app/frontend
-      - /app/frontend/node_modules
-    working_dir: /app/frontend
+      - ./frontend:/app
+      - /app/node_modules
+    working_dir: /app
     ports:
       - "3000:3000"
     command: ["npm", "start"]
 
   api:
     build:
-      context: .
+      context: ./api
       dockerfile: Dockerfile.dev
     volumes:
-      - ./api:/app/api
-      - /app/api/node_modules
-    working_dir: /app/api
+      - ./api:/app
+      - /app/node_modules
+    working_dir: /app
     ports:
-      - "5000:5000"
+      - "5001:5001"
     command: ["npm", "run", "dev"]

@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const PORT = 5000;
+const PORT = 5001;
 const URL = `http://localhost:${PORT}`;
 
 export const getMovies = async () => {

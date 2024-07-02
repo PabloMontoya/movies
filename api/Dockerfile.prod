@@ -1,0 +1,17 @@
+# Set up the Express API
+FROM node:14 AS api
+
+# Set the working directory
+WORKDIR /app
+
+# Copy the API code
+COPY ./api .
+
+# Install dependencies
+RUN npm install
+
+# Expose the port the API runs on
+EXPOSE 5001
+
+# Command to run the API
+CMD ["npm", "start"]

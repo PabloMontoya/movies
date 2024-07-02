@@ -10,7 +10,7 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 const app = express();
-const port = 5000;
+const port = 5001;
 const API_KEY = "b60add26";
 const JSON_FILE_PATH = path.join(__dirname, "movies.json");
 
@@ -52,7 +52,7 @@ async function getMovieDetails(title) {
 }
 
 app.get("/", (req, res) => {
-  res.send("Hello World! sdfsdasdfsdf");
+  res.send("Hello World!");
 });
 
 // get all movies

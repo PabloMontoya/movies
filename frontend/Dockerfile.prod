@@ -2,16 +2,16 @@
 FROM node:14 AS build
 
 # Set the working directory
-WORKDIR /app/frontend
+WORKDIR /app
 
 # Copy the frontend code
-COPY ./frontend .
+COPY ./frontend ./frontend
 
 # Install dependencies and build the React app
-RUN npm install && npm run build
+RUN cd frontend && npm install && npm run build
 
 # Stage 2: Set up Nginx and copy the build output
-FROM nginx:alpine AS frontend
+FROM nginx:alpine AS production
 
 # Copy the build output to the Nginx HTML directory
 COPY --from=build /app/frontend/build /usr/share/nginx/html
@@ -24,21 +24,3 @@ EXPOSE 80
 
 # Start Nginx
 CMD ["nginx", "-g", "daemon off;"]
-
-# Stage 3: Set up the Express API
-FROM node:14 AS api
-
-# Set the working directory
-WORKDIR /app/api
-
-# Copy the API code
-COPY ./api .
-
-# Install dependencies
-RUN npm install
-
-# Expose the port the API runs on
-EXPOSE 5000
-
-# Command to run the API
-CMD ["npm", "start"]

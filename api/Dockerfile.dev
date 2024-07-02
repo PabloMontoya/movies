@@ -1,0 +1,17 @@
+# Base image for the backend
+FROM node:14
+
+# Set the working directory for the backend
+WORKDIR /app
+
+# Copy the API code
+COPY . .
+
+# Install dependencies
+RUN npm install
+
+# Expose the port the API runs on
+EXPOSE 5000
+
+# Start the API server
+CMD ["npm", "run", "dev"]
