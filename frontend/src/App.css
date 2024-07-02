@@ -1,0 +1,103 @@
+:root {
+  --primary-color: #4f1d6f;
+  --secondary-color: #9b9b9b;
+  --border-radius: 16px;
+  --box-shadow: 0px 4px 8px #9b9b9b;
+}
+
+/* Common styles for elements with border-radius and box-shadow */
+.main-table-paper {
+  border-radius: var(--border-radius);
+  box-shadow: var(--box-shadow);
+}
+
+/* Table cell styles */
+.MuiTableCell-stickyHeader {
+  background-color: var(--primary-color);
+  font-size: 18px;
+}
+
+/* Table sort label styles */
+.MuiTableSortLabel-root {
+  color: #ffffff;
+}
+
+.MuiTableSortLabel-root:hover,
+.MuiTableSortLabel-root.Mui-active {
+  color: var(--secondary-color);
+}
+
+/* Table sort label ascending and descending icon styles */
+.MuiSvgIcon-root.MuiSvgIcon-fontSizeMedium.MuiTableSortLabel-icon {
+  fill: var(--secondary-color);
+}
+
+/* Target the checked and indeterminate states of the checkbox */
+.css-12wnr2w-MuiButtonBase-root-MuiCheckbox-root.Mui-checked {
+  /* Change the color attribute to the primary color */
+  color: var(--primary-color);
+}
+
+.link {
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.link:hover {
+  text-decoration: underline;
+}
+
+/* Responsive styles */
+@media (max-width: 600px) {
+  .MuiTableCell-root {
+    font-size: 12px;
+    padding: 4px;
+  }
+
+  .MuiAvatar-root {
+    width: 100px;
+    height: 150px;
+  }
+
+  .MuiTextField-root {
+    margin-bottom: 16px;
+    width: 100%;
+  }
+
+  .MuiTypography-root {
+    font-size: 14px;
+  }
+
+  .MuiTableCell-root.MuiTableCell-stickyHeader {
+    font-size: 14px;
+    padding: 4px;
+  }
+
+  .MuiTableSortLabel-root {
+    font-size: 14px;
+  }
+
+  .MuiSvgIcon-root.MuiSvgIcon-fontSizeMedium.MuiTableSortLabel-icon {
+    width: 20px;
+    height: 20px;
+  }
+
+  .MuiCheckbox-root {
+    padding: 4px;
+  }
+
+  .add-button {
+    font-size: 10px;
+    padding: 4px 8px;
+    min-width: 40px;
+  }
+
+  .MuiButtonBase-root.MuiButton-root.MuiButton-contained.MuiButton-containedPrimary.MuiButton-sizeMedium.MuiButton-containedSizeMedium.MuiButton-colorPrimary.MuiButton-root.MuiButton-contained.MuiButton-containedPrimary.MuiButton-sizeMedium.MuiButton-containedSizeMedium.MuiButton-colorPrimary.css-o4rvxi-MuiButtonBase-root-MuiButton-root {
+    min-width: none;
+  }
+
+  .MuiButton-icon.MuiButton-startIcon.MuiButton-iconSizeMedium.css-1d6wzja-MuiButton-startIcon {
+    margin-right: 0;
+    padding-left: 3px;
+  }
+}

@@ -1,0 +1,2003 @@
+[
+  {
+    "title": "12 Angry Men",
+    "year": "1957",
+    "director": "Sidney Lumet",
+    "actors": [
+      "Henry Fonda",
+      "Lee J. Cobb",
+      "Martin Balsam"
+    ],
+    "rating": 94,
+    "seen": true,
+    "genre": "Crime, Drama",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWU4N2FjNzYtNTVkNC00NzQ0LTg0MjAtYTJlMjFhNGUxZDFmXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg"
+  },
+  {
+    "title": "12 Monkeys",
+    "year": "1995",
+    "director": "Terry Gilliam",
+    "actors": [
+      "Bruce Willis",
+      "Madeleine Stowe",
+      "Brad Pitt"
+    ],
+    "rating": 0,
+    "seen": false,
+    "genre": "Mystery, Sci-Fi, Thriller",
+    "poster": "https://m.media-amazon.com/images/M/MV5BN2Y2OWU4MWMtNmIyMy00YzMyLWI0Y2ItMTcyZDc3MTdmZDU4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg"
+  },
+  {
+    "title": "300",
+    "year": "2006",
+    "director": "Zack Snyder",
+    "actors": [
+      "Gerard Butler",
+      "Lena Headey",
+      "David Wenham"
+    ],
+    "rating": 0,
+    "seen": false,
+    "genre": "Action, Drama",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjc4OTc0ODgwNV5BMl5BanBnXkFtZTcwNjM1ODE0MQ@@._V1_SX300.jpg"
+  },
+  {
+    "title": "500 Days of Summer",
+    "year": "2009",
+    "director": "Marc Webb",
+    "actors": [
+      "Joseph Gordon-Levitt",
+      "Zooey Deschanel"
+    ],
+    "rating": 0,
+    "seen": false,
+    "genre": "Comedy, Drama, Romance",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTk5MjM4OTU1OV5BMl5BanBnXkFtZTcwODkzNDIzMw@@._V1_SX300.jpg"
+  },
+  {
+    "title": "A Beautiful Mind",
+    "year": "2001",
+    "director": "Ron Howard",
+    "actors": [
+      "Russell Crowe",
+      "Jennifer Connelly"
+    ],
+    "rating": 0,
+    "seen": false,
+    "genre": "Biography, Drama, Mystery",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzcwYWFkYzktZjAzNC00OGY1LWI4YTgtNzc5MzVjMDVmNjY0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg"
+  },
+  {
+    "title": "A Clockwork Orange",
+    "year": "1971",
+    "director": "Stanley Kubrick",
+    "actors": [
+      "Malcolm McDowell"
+    ],
+    "rating": 96,
+    "seen": true,
+    "genre": "Crime, Sci-Fi",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTY3MjM1Mzc4N15BMl5BanBnXkFtZTgwODM0NzAxMDE@._V1_SX300.jpg"
+  },
+  {
+    "title": "A Dark Song",
+    "year": "2016",
+    "director": "Liam Gavin",
+    "actors": [
+      "Steve Oram",
+      "Catherine Walker"
+    ],
+    "rating": 0,
+    "seen": false,
+    "genre": "Drama, Fantasy, Horror",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTEzNDk1MzM4MDleQTJeQWpwZ15BbWU4MDM2NTI4ODEy._V1_SX300.jpg"
+  },
+  {
+    "title": "A Perfect Murder",
+    "year": "1998",
+    "director": "Andrew Davis",
+    "actors": [
+      "Michael Douglas",
+      "Gwyneth Paltrow",
+      "Viggo Mortensen"
+    ],
+    "rating": 0,
+    "seen": false,
+    "genre": "Crime, Drama, Thriller",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDZjN2M0YTMtOTM3MS00YTVkLTkwZWQtOTkzZGUwOGQzY2VhXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg"
+  },
+  {
+    "title": "Amadeus",
+    "year": "1984",
+    "director": "Miloš Forman",
+    "actors": [
+      "F. Murray Abraham",
+      "Tom Hulce"
+    ],
+    "rating": 0,
+    "seen": false,
+    "genre": "Biography, Drama, Music",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNWJlNzUzNGMtYTAwMS00ZjI2LWFmNWQtODcxNWUxODA5YmU1XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_SX300.jpg"
+  },
+  {
+    "title": "American Beauty",
+    "year": "1999",
+    "director": "Sam Mendes",
+    "actors": [
+      "Kevin Spacey",
+      "Annette Bening"
+    ],
+    "rating": 0,
+    "seen": false,
+    "genre": "Drama",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTBmZWJkNjctNDhiNC00MGE2LWEwOTctZTk5OGVhMWMyNmVhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg"
+  },
+  {
+    "title": "American History X",
+    "year": "1998",
+    "director": "Tony Kaye",
+    "actors": [
+      "Edward Norton",
+      "Edward Furlong"
+    ],
+    "rating": 94,
+    "seen": true,
+    "genre": "Crime, Drama",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTJhN2FkYWEtMGI0My00YWM4LWI2MjAtM2UwNjY4MTI2ZTQyXkEyXkFqcGdeQXVyNjc3MjQzNTI@._V1_SX300.jpg"
+  },
+  {
+    "title": "American Psycho",
+    "year": "2000",
+    "director": "Mary Harron",
+    "actors": [
+      "Christian Bale",
+      "Jared Leto",
+      "Reese Witherspoon"
+    ],
+    "rating": 91,
+    "seen": true,
+    "genre": "Crime, Drama, Horror",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTM2ZGJmNjQtN2UyOS00NjcxLWFjMDktMDE2NzMyNTZlZTBiXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg"
+  },
+  {
+    "title": "Amélie",
+    "year": "2001",
+    "director": "Jean-Pierre Jeunet",
+    "actors": [
+      "Audrey Tautou"
+    ],
+    "rating": 0,
+    "seen": false,
+    "genre": "Comedy, Romance",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDg4NjM1YjMtYmNhZC00MjM0LWFiZmYtNGY1YjA3MzZmODc5XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SX300.jpg"
+  },
+  {
+    "title": "Apocalypse Now",
+    "year": "1979",
+    "director": "Francis Ford Coppola",
+    "actors": [
+      "Martin Sheen",
+      "Marlon Brando",
+      "Robert Duvall"
+    ],
+    "rating": 0,
+    "seen": false,
+    "genre": "Drama, Mystery, War",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYmQyNTA1ZGItNjZjMi00NzFlLWEzMWEtNWMwN2Q2MjJhYzEyXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg"
+  },
+  {
+    "title": "Arrival",
+    "year": "2016",
+    "director": "Denis Villeneuve",
+    "actors": [
+      "Amy Adams",
+      "Jeremy Renner",
+      "Forest Whitaker"
+    ],
+    "rating": 88,
+    "seen": true,
+    "genre": "Drama, Mystery, Sci-Fi",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTExMzU0ODcxNDheQTJeQWpwZ15BbWU4MDE1OTI4MzAy._V1_SX300.jpg"
+  },
+  {
+    "title": "Big Fish",
+    "year": "2003",
+    "director": "Tim Burton",
+    "actors": [
+      "Ewan McGregor",
+      "Albert Finney",
+      "Billy Crudup"
+    ],
+    "rating": 0,
+    "seen": false,
+    "genre": "Adventure, Drama, Fantasy",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTNlNTQzMGEtYjU4Yi00MzEzLThmMTQtNmM0NzcxZWI1MTk0XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg"
+  },
+  {
+    "title": "Birdman",
+    "year": "2014",
+    "director": "Alejandro González Iñárritu",
+    "actors": [
+      "Michael Keaton",
+      "Emma Stone",
+      "Edward Norton"
+    ],
+    "rating": 85,
+    "seen": true,
+    "genre": "Animation, Action, Adventure",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTk3NjA1M2EtYTQ2Ny00ZTlmLThjMTQtYzhiY2I1ODM0MzdlXkEyXkFqcGdeQXVyNjExODE1MDc@._V1_SX300.jpg"
+  },
+  {
+    "title": "Blade Runner",
+    "year": "1982",
+    "director": "Ridley Scott",
+    "actors": [
+      "Harrison Ford",
+      "Rutger Hauer",
+      "Sean Young"
+    ],
+    "rating": 0,
+    "seen": false,
+    "genre": "Action, Drama, Sci-Fi",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzQzMzJhZTEtOWM4NS00MTdhLTg0YjgtMjM4MDRkZjUwZDBlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg"
+  },
+  {
+    "title": "Blood Diamond",
+    "year": "2006",
+    "director": "Edward Zwick",
+    "actors": [
+      "Leonardo DiCaprio",
+      "Djimon Hounsou",
+      "Jennifer Connelly"
+    ],
+    "rating": 0,
+    "seen": false,
+    "genre": "Adventure, Drama, Thriller",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDMxOGZhNWYtMzRlYy00Mzk5LWJjMjEtNmQ4NDU4M2QxM2UzXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SX300.jpg"
+  },
+  {
+    "title": "Blow",
+    "year": "2001",
+    "director": "Ted Demme",
+    "actors": [
+      "Johnny Depp",
+      "Penélope Cruz",
+      "Franka Potente"
+    ],
+    "rating": 90,
+    "seen": true,
+    "genre": "Biography, Crime, Drama",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjg5ZDkzZWEtZDQ2ZC00Y2ViLThhMzYtMmIxZDYzYTY2Y2Y2XkEyXkFqcGdeQXVyODAwMTU1MTE@._V1_SX300.jpg"
+  },
+  {
+    "title": "Blue Velvet",
+    "year": "1986",
+    "director": "David Lynch",
+    "actors": [
+      "Kyle MacLachlan",
+      "Isabella Rossellini",
+      "Dennis Hopper"
+    ],
+    "rating": 0,
+    "seen": false,
+    "genre": "Crime, Drama, Mystery",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzExOTczNTgtN2Q1Yy00MmI1LWE0NjgtNmIwMzdmZGNlODU1XkEyXkFqcGdeQXVyNDkzNTM2ODg@._V1_SX300.jpg"
+  },
+  {
+    "title": "Bone Collector",
+    "year": "1999",
+    "director": "Phillip Noyce",
+    "actors": [
+      "Denzel Washington",
+      "Angelina Jolie"
+    ],
+    "rating": 0,
+    "seen": false,
+    "genre": "Sport",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDA0OTBmMzktOTkwZC00MDFlLWIwYzAtMjA5MDFkZWI5NDJiXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_SX300.jpg"
+  },
+  {
+    "title": "Casino",
+    "year": "1995",
+    "director": "Martin Scorsese",
+    "actors": [
+      "Robert De Niro",
+      "Sharon Stone",
+      "Joe Pesci"
+    ],
+    "rating": 0,
+    "seen": false,
+    "genre": "Crime, Drama",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTcxOWYzNDYtYmM4YS00N2NkLTk0NTAtNjg1ODgwZjAxYzI3XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SX300.jpg"
+  },
+  {
+    "title": "Children of Men",
+    "year": "2006",
+    "director": "Alfonso Cuarón",
+    "actors": [
+      "Clive Owen",
+      "Julianne Moore",
+      "Michael Caine"
+    ],
+    "rating": 0,
+    "seen": false,
+    "genre": "Action, Drama, Sci-Fi",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjUzY2ZhZDAtZDRlNS00MzEzLTliZjItMzMyYzM2OTdkZGJjXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg"
+  },
+  {
+    "title": "Chronicle",
+    "year": "2012",
+    "director": "Josh Trank",
+    "actors": [
+      "Dane DeHaan",
+      "Alex Russell",
+      "Michael B. Jordan"
+    ],
+    "rating": 0,
+    "seen": false,
+    "genre": "Action, Drama, Sci-Fi",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYmRkY2RhM2QtMjQwNC00NDVjLTk4MTQtZGNiMjYxMmJmODVhXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_SX300.jpg"
+  },
+  {
+    "title": "Citizen Kane",
+    "year": "1941",
+    "director": "Orson Welles",
+    "actors": [
+      "Orson Welles",
+      "Joseph Cotten"
+    ],
+    "rating": 0,
+    "seen": false,
+    "genre": "Drama, Mystery",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjBiOTYxZWItMzdiZi00NjlkLWIzZTYtYmFhZjhiMTljOTdkXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg"
+  },
+  {
+    "title": "City of God",
+    "year": "2002",
+    "director": "Fernando Meirelles, Kátia Lund",
+    "actors": [
+      "Alexandre Rodrigues",
+      "Leandro Firmino"
+    ],
+    "rating": 0,
+    "seen": false,
+    "genre": "Crime, Drama",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMGU5OWEwZDItNmNkMC00NzZmLTk1YTctNzVhZTJjM2NlZTVmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg"
+  },
+  {
+    "title": "Cloverfield",
+    "year": "2008",
+    "director": "Matt Reeves",
+    "actors": [
+      "Michael Stahl-David",
+      "T.J. Miller",
+      "Jessica Lucas"
+    ],
+    "rating": 0,
+    "seen": false,
+    "genre": "Horror, Sci-Fi, Thriller",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDNhNDJlNDktZDI4OC00OTE3LWI2M2UtOThkNTFkNjBjYzRmXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SX300.jpg"
+  },
+  {
+    "title": "Constantine",
+    "year": "2005",
+    "director": "Francis Lawrence",
+    "actors": [
+      "Keanu Reeves",
+      "Rachel Weisz"
+    ],
+    "rating": 0,
+    "seen": false,
+    "genre": "Action, Fantasy, Horror",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODZiMzAxNTctZjdiZC00OGY5LTg2NDAtNWJhNmQwZTcyMWQ2XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg"
+  },
+  {
+    "title": "Dallas Buyers Club",
+    "year": "2013",
+    "director": "Jean-Marc Vallée",
+    "actors": [
+      "Matthew McConaughey",
+      "Jennifer Garner",
+      "Jared Leto"
+    ],
+    "rating": 0,
+    "seen": false,
+    "genre": "Biography, Drama",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTYwMTA4MzgyNF5BMl5BanBnXkFtZTgwMjEyMjE0MDE@._V1_SX300.jpg"
+  },
+  {
+    "title": "Dead Poets Society",
+    "year": "1989",
+    "director": "Peter Weir",
+    "actors": [
+      "Robin Williams",
+      "Ethan Hawke"
+    ],
+    "rating": 0,
+    "seen": false,
+    "genre": "Comedy, Drama",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOGYwYWNjMzgtNGU4ZC00NWQ2LWEwZjUtMzE1Zjc3NjY3YTU1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg"
+  },
+  {
+    "title": "Death Proof",
+    "year": "2007",
+    "director": "Quentin Tarantino",
+    "actors": [
+      "Kurt Russell",
+      "Zoë Bell"
+    ],
+    "rating": 0,
+    "seen": false,
+    "genre": "Action, Thriller",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTdmZmY3Y2QtNjU5NC00OGUxLTg3MWQtMmE2ODM5Mzg3MzcyL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg"
+  },
+  {
+    "title": "Deliverance",
+    "year": "1972",
+    "director": "John Boorman",
+    "actors": [
+      "Jon Voight",
+      "Burt Reynolds",
+      "Ned Beatty"
+    ],
+    "rating": 0,
+    "seen": false,
+    "genre": "Adventure, Drama, Thriller",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTFjOWQxYWMtMzNkZC00ZTEzLWJkOTgtYWZiOGYyOGVlZjVmXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg"
+  },
+  {
+    "title": "Devil's Advocate",
+    "year": "1997",
+    "director": "Taylor Hackford",
+    "actors": [
+      "Keanu Reeves",
+      "Al Pacino"
+    ],
+    "rating": 0,
+    "seen": false,
+    "genre": "Drama, Fantasy, Mystery",
+    "poster": "https://m.media-amazon.com/images/M/MV5BM2M2MDJhMDgtMmJkYy00MTgzLTkyZTktODM5NzE1MWUyNDA4XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SX300.jpg"
+  },
+  {
+    "title": "Django Unchained",
+    "year": "2012",
+    "director": "Quentin Tarantino",
+    "actors": [
+      "Jamie Foxx",
+      "Christoph Waltz",
+      "Leonardo DiCaprio"
+    ],
+    "rating": 96,
+    "seen": true,
+    "genre": "Drama, Western",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjIyNTQ5NjQ1OV5BMl5BanBnXkFtZTcwODg1MDU4OA@@._V1_SX300.jpg"
+  },
+  {
+    "title": "Dogs Don't Wear Pants",
+    "year": "2019",
+    "director": "J-P Valkeapää",
+    "actors": [
+      "Pekka Strang",
+      "Krista Kosonen"
+    ],
+    "rating": 0,
+    "seen": false,
+    "genre": "Drama, Romance",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGZjOTc1MzMtMjI2Mi00MDk3LWFkODEtYjdiZGRkYTdmZDk5XkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_SX300.jpg"
+  },
+  {
+    "title": "Donnie Brasco",
+    "year": "1997",
+    "director": "Mike Newell",
+    "actors": [
+      "Johnny Depp",
+      "Al Pacino"
+    ],
+    "rating": 89,
+    "seen": true,
+    "genre": "Biography, Crime, Drama",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzMzMDZkYWEtODIzNS00YjI3LTkxNTktOWEyZGM3ZWI2MWM4XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg"
+  },
+  {
+    "title": "Eternal Sunshine of the Spotless Mind",
+    "year": "2004",
+    "director": "Michel Gondry",
+    "actors": [
+      "Jim Carrey",
+      "Kate Winslet"
+    ],
+    "rating": 84,
+    "seen": true,
+    "genre": "Drama, Romance, Sci-Fi",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTY4NzcwODg3Nl5BMl5BanBnXkFtZTcwNTEwOTMyMw@@._V1_SX300.jpg"
+  },
+  {
+    "title": "Event Horizon",
+    "year": "1997",
+    "director": "Paul W.S. Anderson",
+    "actors": [
+      "Laurence Fishburne",
+      "Sam Neill"
+    ],
+    "rating": 0,
+    "seen": false,
+    "genre": "Horror, Sci-Fi, Thriller",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZGI0NDMwNjAtNGEzNC00MzA1LTlkMjQtYjBkYTZlZjAyZWEyXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg"
+  },
+  {
+    "title": "Evil Dead",
+    "year": "1981",
+    "director": "Sam Raimi",
+    "actors": [
+      "Bruce Campbell"
+    ],
+    "rating": 0,
+    "seen": false,
+    "genre": "Horror",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzk2ZTVhOWMtMWQxYS00OWQzLWFmY2QtODQ4NGFmNGQxZWVmXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_SX300.jpg"
+  },
+  {
+    "title": "Fight Club",
+    "year": "1999",
+    "director": "David Fincher",
+    "actors": [
+      "Brad Pitt",
+      "Edward Norton"
+    ],
+    "rating": 97,
+    "seen": true,
+    "genre": "Drama",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMmEzNTkxYjQtZTc0MC00YTVjLTg5ZTEtZWMwOWVlYzY0NWIwXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg"
+  },
+  {
+    "title": "Full Metal Jacket",
+    "year": "1987",
+    "director": "Stanley Kubrick",
+    "actors": [
+      "Matthew Modine",
+      "R. Lee Ermey",
+      "Vincent D'Onofrio"
+    ],
+    "rating": 0,
+    "seen": false,
+    "genre": "Drama, War",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzkxODk0NjEtYjc4Mi00ZDI0LTgyYjEtYzc1NDkxY2YzYTgyXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg"
+  },
+  {
+    "title": "Get Out",
+    "year": "2017",
+    "director": "Jordan Peele",
+    "actors": [
+      "Daniel Kaluuya",
+      "Allison Williams"
+    ],
+    "rating": 0,
+    "seen": false,
+    "genre": "Horror, Mystery, Thriller",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjUxMDQwNjcyNl5BMl5BanBnXkFtZTgwNzcwMzc0MTI@._V1_SX300.jpg"
+  },
+  {
+    "title": "Ghost World",
+    "year": "2001",
+    "director": "Terry Zwigoff",
+    "actors": [
+      "Thora Birch",
+      "Scarlett Johansson",
+      "Steve Buscemi"
+    ],
+    "rating": 92,
+    "seen": true,
+    "genre": "Comedy, Drama",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNWYwODRlYjgtODUxNy00YmMyLWE3NWYtNTYzZmUwNDJiZGVlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg"
+  },
+  {
+    "title": "Gladiator",
+    "year": "2000",
+    "director": "Ridley Scott",
+    "actors": [
+      "Russell Crowe",
+      "Joaquin Phoenix",
+      "Connie Nielsen"
+    ],
+    "rating": 0,
+    "seen": false,
+    "genre": "Action, Adventure, Drama",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDliMmNhNDEtODUyOS00MjNlLTgxODEtN2U3NzIxMGVkZTA1L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg"
+  },
+  {
+    "title": "Good Will Hunting",
+    "year": "1997",
+    "director": "Gus Van Sant",
+    "actors": [
+      "Matt Damon",
+      "Robin Williams",
+      "Ben Affleck"
+    ],
+    "rating": 93,
+    "seen": true,
+    "genre": "Drama, Romance",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTI0MzcxMTYtZDVkMy00NjY1LTgyMTYtZmUxN2M3NmQ2NWJhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg"
+  },
+  {
+    "title": "Goodfellas",
+    "year": "1990",
+    "director": "Martin Scorsese",
+    "actors": [
+      "Ray Liotta",
+      "Robert De Niro",
+      "Joe Pesci"
+    ],
+    "rating": 95,
+    "seen": true,
+    "genre": "Biography, Crime, Drama",
+    "poster": "https://m.media-amazon.com/images/M/MV5BY2NkZjEzMDgtN2RjYy00YzM1LWI4ZmQtMjIwYjFjNmI3ZGEwXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg"
+  },
+  {
+    "title": "Grand Budapest Hotel",
+    "year": "2014",
+    "director": "Wes Anderson",
+    "actors": [
+      "Ralph Fiennes",
+      "Tony Revolori",
+      "F. Murray Abraham"
+    ],
+    "rating": 0,
+    "seen": false,
+    "genre": "Adventure, Comedy, Crime",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzM5NjUxOTEyMl5BMl5BanBnXkFtZTgwNjEyMDM0MDE@._V1_SX300.jpg"
+  },
+  {
+    "title": "Grave of the Fireflies",
+    "year": "1988",
+    "director": "Isao Takahata",
+    "actors": [
+      "Tsutomu Tatsumi",
+      "Ayano Shiraishi"
+    ],
+    "rating": 0,
+    "seen": false,
+    "genre": "Animation, Drama, War",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZmY2NjUzNDQtNTgxNC00M2Q4LTljOWQtMjNjNDBjNWUxNmJlXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SX300.jpg"
+  },
+  {
+    "title": "Hannibal",
+    "year": "2001",
+    "director": "Ridley Scott",
+    "actors": [
+      "Anthony Hopkins",
+      "Julianne Moore"
+    ],
+    "rating": 96,
+    "seen": true,
+    "genre": "Crime, Drama, Thriller",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDMxMjhiZmItNWMxMC00NzYyLWJiOTYtNGYwOTAyYjU5OWY4XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg"
+  },
+  {
+    "title": "Happy as Lazzaro",
+    "year": "2018",
+    "director": "Alice Rohrwacher",
+    "actors": [
+      "Adriano Tardiolo"
+    ],
+    "rating": 0,
+    "seen": false,
+    "genre": "Drama, Fantasy, Mystery",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOWYwOTBmOGMtZWZiNC00YjNjLWIzOTUtNGEzZWFkYTg1ZDdjXkEyXkFqcGdeQXVyMjgyNjk3MzE@._V1_SX300.jpg"
+  },
+  {
+    "title": "Hell or High Water",
+    "year": "2016",
+    "director": "David Mackenzie",
+    "actors": [
+      "Chris Pine",
+      "Ben Foster",
+      "Jeff Bridges"
+    ],
+    "rating": 0,
+    "seen": false,
+    "genre": "Crime, Drama, Thriller",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTg4NDA1OTA5NF5BMl5BanBnXkFtZTgwMDQ2MDM5ODE@._V1_SX300.jpg"
+  },
+  {
+    "title": "Her",
+    "year": "2013",
+    "director": "Spike Jonze",
+    "actors": [
+      "Joaquin Phoenix",
+      "Scarlett Johansson"
+    ],
+    "rating": 0,
+    "seen": false,
+    "genre": "Drama, Romance, Sci-Fi",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA1Nzk0OTM2OF5BMl5BanBnXkFtZTgwNjU2NjEwMDE@._V1_SX300.jpg"
+  },
+  {
+    "title": "Inception",
+    "year": "2010",
+    "director": "Christopher Nolan",
+    "actors": [
+      "Leonardo DiCaprio",
+      "Joseph Gordon-Levitt",
+      "Elliot Page"
+    ],
+    "rating": 0,
+    "seen": false,
+    "genre": "Action, Adventure, Sci-Fi",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_SX300.jpg"
+  },
+  {
+    "title": "Independence Day",
+    "year": "1996",
+    "director": "Roland Emmerich",
+    "actors": [
+      "Will Smith",
+      "Bill Pullman",
+      "Jeff Goldblum"
+    ],
+    "rating": 0,
+    "seen": false,
+    "genre": "Action, Adventure, Sci-Fi",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMGQwNDNkMmItYWY1Yy00YTZmLWE5OTAtODU0MGZmMzQ1NDdkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg"
+  },
+  {
+    "title": "Inglourious Basterds",
+    "year": "2009",
+    "director": "Quentin Tarantino",
+    "actors": [
+      "Brad Pitt",
+      "Christoph Waltz",
+      "Mélanie Laurent"
+    ],
+    "rating": 98,
+    "seen": true,
+    "genre": "Adventure, Drama, War",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTJiNDEzOWYtMTVjOC00ZjlmLWE0NGMtZmE1OWVmZDQ2OWJhXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_SX300.jpg"
+  },
+  {
+    "title": "Interstellar",
+    "year": "2014",
+    "director": "Christopher Nolan",
+    "actors": [
+      "Matthew McConaughey",
+      "Anne Hathaway",
+      "Jessica Chastain"
+    ],
+    "rating": 100,
+    "seen": true,
+    "genre": "Adventure, Drama, Sci-Fi",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjdkOTU3MDktN2IxOS00OGEyLWFmMjktY2FiMmZkNWIyODZiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg"
+  },
+  {
+    "title": "Into the Wild",
+    "year": "2007",
+    "director": "Sean Penn",
+    "actors": [
+      "Emile Hirsch"
+    ],
+    "rating": 0,
+    "seen": false,
+    "genre": "Adventure, Biography, Drama",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjQ0ODlhMWUtNmUwMS00YjExLWI4MjQtNjVmMmE2Y2E0MGRmXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SX300.jpg"
+  },
+  {
+    "title": "Jackie Brown",
+    "year": "1997",
+    "director": "Quentin Tarantino",
+    "actors": [
+      "Pam Grier",
+      "Samuel L. Jackson",
+      "Robert Forster"
+    ],
+    "rating": 0,
+    "seen": false,
+    "genre": "Crime, Drama, Thriller",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNmY5ODRmYTItNWU0Ni00MWE3LTgyYzUtYjZlN2Q5YTcyM2NmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg"
+  },
+  {
+    "title": "Jeepers Creepers",
+    "year": "2001",
+    "director": "Victor Salva",
+    "actors": [
+      "Gina Philips",
+      "Justin Long"
+    ],
+    "rating": 87,
+    "seen": true,
+    "genre": "Horror, Mystery",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTkwNDU0NTE0OV5BMl5BanBnXkFtZTgwNzAzNzQyMTI@._V1_SX300.jpg"
+  },
+  {
+    "title": "Jeepers Creepers 2",
+    "year": "2003",
+    "director": "Victor Salva",
+    "actors": [
+      "Ray Wise",
+      "Jonathan Breck"
+    ],
+    "rating": 85,
+    "seen": true,
+    "genre": "Horror",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTIxNDI2NzQyNF5BMl5BanBnXkFtZTYwMTY5MTQ3._V1_SX300.jpg"
+  },
+  {
+    "title": "Life is Beautiful",
+    "year": "1997",
+    "director": "Roberto Benigni",
+    "actors": [
+      "Roberto Benigni",
+      "Nicoletta Braschi"
+    ],
+    "rating": 0,
+    "seen": false,
+    "genre": "Comedy, Drama, Romance",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYmJmM2Q4NmMtYThmNC00ZjRlLWEyZmItZTIwOTBlZDQ3NTQ1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg"
+  },
+  {
+    "title": "Little Miss Sunshine",
+    "year": "2006",
+    "director": "Jonathan Dayton and Valerie Faris",
+    "actors": [
+      "Abigail Breslin",
+      "Greg Kinnear",
+      "Paul Dano"
+    ],
+    "rating": 0,
+    "seen": false,
+    "genre": "Comedy, Drama",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTgzNTgzODU0NV5BMl5BanBnXkFtZTcwMjEyMjMzMQ@@._V1_SX300.jpg"
+  },
+  {
+    "title": "Lolita",
+    "year": "1962",
+    "director": "Stanley Kubrick",
+    "actors": [
+      "James Mason",
+      "Sue Lyon",
+      "Shelley Winters"
+    ],
+    "rating": 0,
+    "seen": false,
+    "genre": "Crime, Drama, Romance",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTlmODM0ZTgtY2NkZS00Y2ZmLTkxMzktMTE4ZDg2NzNmNDkwXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg"
+  },
+  {
+    "title": "Looper",
+    "year": "2012",
+    "director": "Rian Johnson",
+    "actors": [
+      "Joseph Gordon-Levitt",
+      "Bruce Willis",
+      "Emily Blunt"
+    ],
+    "rating": 0,
+    "seen": false,
+    "genre": "Action, Drama, Sci-Fi",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTg5NTA3NTg4NF5BMl5BanBnXkFtZTcwNTA0NDYzOA@@._V1_SX300.jpg"
+  },
+  {
+    "title": "Lost in Translation",
+    "year": "2003",
+    "director": "Sofia Coppola",
+    "actors": [
+      "Bill Murray",
+      "Scarlett Johansson"
+    ],
+    "rating": 0,
+    "seen": false,
+    "genre": "Comedy, Drama",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTUxMzk0NDg1MV5BMl5BanBnXkFtZTgwNDg0NjkxMDI@._V1_SX300.jpg"
+  },
+  {
+    "title": "Léon: The Professional",
+    "year": "1994",
+    "director": "Luc Besson",
+    "actors": [
+      "Jean Reno",
+      "Gary Oldman",
+      "Natalie Portman"
+    ],
+    "rating": 90,
+    "seen": true,
+    "genre": "Action, Crime, Drama",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTgyMWQ0ZWUtN2Q2MS00NmY0LWI3OWMtNjFkMzZlNDZjNTk0XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg"
+  },
+  {
+    "title": "Mad Max",
+    "year": "1979",
+    "director": "George Miller",
+    "actors": [
+      "Mel Gibson"
+    ],
+    "rating": 0,
+    "seen": false,
+    "genre": "Action, Adventure, Sci-Fi",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTM4Mjg5ODEzMV5BMl5BanBnXkFtZTcwMDc3NDk0NA@@._V1_SX300.jpg"
+  },
+  {
+    "title": "Malcolm X",
+    "year": "1992",
+    "director": "Spike Lee",
+    "actors": [
+      "Denzel Washington",
+      "Angela Bassett"
+    ],
+    "rating": 0,
+    "seen": false,
+    "genre": "Biography, Drama, History",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDkzOTFmMTUtMmI2OS00MDE4LTg5YTUtODMwNDMzNmI5OGYwL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg"
+  },
+  {
+    "title": "Manchester by the Sea",
+    "year": "2016",
+    "director": "Kenneth Lonergan",
+    "actors": [
+      "Casey Affleck",
+      "Michelle Williams"
+    ],
+    "rating": 0,
+    "seen": false,
+    "genre": "Drama",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTYxMjk0NDg4Ml5BMl5BanBnXkFtZTgwODcyNjA5OTE@._V1_SX300.jpg"
+  },
+  {
+    "title": "Mank",
+    "year": "2020",
+    "director": "David Fincher",
+    "actors": [
+      "Gary Oldman",
+      "Amanda Seyfried"
+    ],
+    "rating": 0,
+    "seen": false,
+    "genre": "Biography, Comedy, Drama",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTllMjI0ZGYtM2FmZC00ZmY4LTlkNTYtZThlOWQ1OGQyZTA3XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_SX300.jpg"
+  },
+  {
+    "title": "Meet Joe Black",
+    "year": "1998",
+    "director": "Martin Brest",
+    "actors": [
+      "Brad Pitt",
+      "Anthony Hopkins"
+    ],
+    "rating": 97,
+    "seen": true,
+    "genre": "Drama, Fantasy, Romance",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNmVlN2NiZWItY2JlMy00NzRmLTg0Y2ItZmM0ZjVjZjMyM2Q4XkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_SX300.jpg"
+  },
+  {
+    "title": "Memento",
+    "year": "2000",
+    "director": "Christopher Nolan",
+    "actors": [
+      "Guy Pearce",
+      "Carrie-Anne Moss"
+    ],
+    "rating": 0,
+    "seen": false,
+    "genre": "Mystery, Thriller",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTcyNjk1MjgtOWI3Mi00YzQwLWI5MTktMzY4ZmI2NDAyNzYzXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg"
+  },
+  {
+    "title": "Midnight in Paris",
+    "year": "2011",
+    "director": "Woody Allen",
+    "actors": [
+      "Owen Wilson",
+      "Rachel McAdams"
+    ],
+    "rating": 0,
+    "seen": false,
+    "genre": "Comedy, Fantasy, Romance",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTM4NjY1MDQwMl5BMl5BanBnXkFtZTcwNTI3Njg3NA@@._V1_SX300.jpg"
+  },
+  {
+    "title": "Midsommar",
+    "year": "2019",
+    "director": "Ari Aster",
+    "actors": [
+      "Florence Pugh",
+      "Jack Reynor"
+    ],
+    "rating": 88,
+    "seen": true,
+    "genre": "Drama, Horror, Mystery",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzQxNzQzOTQwM15BMl5BanBnXkFtZTgwMDQ2NTcwODM@._V1_SX300.jpg"
+  },
+  {
+    "title": "Moonrise Kingdom",
+    "year": "2012",
+    "director": "Wes Anderson",
+    "actors": [
+      "Jared Gilman",
+      "Kara Hayward"
+    ],
+    "rating": 0,
+    "seen": false,
+    "genre": "Adventure, Comedy, Drama",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTEwMTc3NDkzOTJeQTJeQWpwZ15BbWU3MDI4NTAwNzc@._V1_SX300.jpg"
+  },
+  {
+    "title": "Mr. Nobody",
+    "year": "2009",
+    "director": "Jaco Van Dormael",
+    "actors": [
+      "Jared Leto",
+      "Sarah Polley"
+    ],
+    "rating": 0,
+    "seen": false,
+    "genre": "Drama, Fantasy, Romance",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTg4ODkzMDQ3Nl5BMl5BanBnXkFtZTgwNTEwMTkxMDE@._V1_SX300.jpg"
+  },
+  {
+    "title": "Mulholland Drive",
+    "year": "2001",
+    "director": "David Lynch",
+    "actors": [
+      "Naomi Watts",
+      "Laura Harring"
+    ],
+    "rating": 0,
+    "seen": false,
+    "genre": "Drama, Mystery, Thriller",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTRiMzg4NDItNTc3Zi00NjBjLTgwOWYtOGZjMTFmNGU4ODY4XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg"
+  },
+  {
+    "title": "Natural Born Killers",
+    "year": "1994",
+    "director": "Oliver Stone",
+    "actors": [
+      "Woody Harrelson",
+      "Juliette Lewis"
+    ],
+    "rating": 0,
+    "seen": false,
+    "genre": "Action, Crime, Romance",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGNjNjU1YmEtZGM5MC00ODgzLWEyY2MtZmZmNTlhOGU4OWJjXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg"
+  },
+  {
+    "title": "No Country for Old Men",
+    "year": "2007",
+    "director": "Joel and Ethan Coen",
+    "actors": [
+      "Tommy Lee Jones",
+      "Javier Bardem",
+      "Josh Brolin"
+    ],
+    "rating": 0,
+    "seen": false,
+    "genre": "Crime, Drama, Thriller",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA5Njk3MjM4OV5BMl5BanBnXkFtZTcwMTc5MTE1MQ@@._V1_SX300.jpg"
+  },
+  {
+    "title": "Nobody",
+    "year": "2021",
+    "director": "Ilya Naishuller",
+    "actors": [
+      "Bob Odenkirk"
+    ],
+    "rating": 0,
+    "seen": false,
+    "genre": "Action, Crime, Drama",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjM5YTRlZmUtZGVmYi00ZjE2LWIyNzAtOWVhMDk1MDdkYzhjXkEyXkFqcGdeQXVyMjMxOTE0ODA@._V1_SX300.jpg"
+  },
+  {
+    "title": "Oldboy",
+    "year": "2003",
+    "director": "Park Chan-wook",
+    "actors": [
+      "Choi Min-sik"
+    ],
+    "rating": 92,
+    "seen": true,
+    "genre": "Action, Drama, Mystery",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTI3NTQyMzU5M15BMl5BanBnXkFtZTcwMTM2MjgyMQ@@._V1_SX300.jpg"
+  },
+  {
+    "title": "One Hour Photo",
+    "year": "2002",
+    "director": "Mark Romanek",
+    "actors": [
+      "Robin Williams"
+    ],
+    "rating": 0,
+    "seen": false,
+    "genre": "Drama, Thriller",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjdmMjcwMWMtOGRmOC00NWQwLWE2YTYtOTllOWM5MTNlZGEwXkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_SX300.jpg"
+  },
+  {
+    "title": "Pan's Labyrinth",
+    "year": "2006",
+    "director": "Guillermo del Toro",
+    "actors": [
+      "Ivana Baquero",
+      "Sergi López"
+    ],
+    "rating": 88,
+    "seen": true,
+    "genre": "Drama, Fantasy, War",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzFjMThiMGItOWRlMC00MDI4LThmOGUtYTNlZGZiYWI1YjMyXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg"
+  },
+  {
+    "title": "Parasite",
+    "year": "2019",
+    "director": "Bong Joon-ho",
+    "actors": [
+      "Song Kang-ho",
+      "Lee Sun-kyun",
+      "Cho Yeo-jeong"
+    ],
+    "rating": 0,
+    "seen": false,
+    "genre": "Drama, Thriller",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYWZjMjk3ZTItODQ2ZC00NTY5LWE0ZDYtZTI3MjcwN2Q5NTVkXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_SX300.jpg"
+  },
+  {
+    "title": "Phantom Thread",
+    "year": "2017",
+    "director": "Paul Thomas Anderson",
+    "actors": [
+      "Daniel Day-Lewis",
+      "Vicky Krieps",
+      "Lesley Manville"
+    ],
+    "rating": 0,
+    "seen": false,
+    "genre": "Drama, Romance",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWJkNzBkM2UtYWFlMC00NmEwLTgxOGUtMjVmMzYyZjgyMmEzXkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_SX300.jpg"
+  },
+  {
+    "title": "Philadelphia",
+    "year": "1993",
+    "director": "Jonathan Demme",
+    "actors": [
+      "Tom Hanks",
+      "Denzel Washington"
+    ],
+    "rating": 0,
+    "seen": false,
+    "genre": "Drama",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDE0MWE1ZTMtOWFkMS00YjdiLTkwZTItMDljYjY3MjM0NTk5XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_SX300.jpg"
+  },
+  {
+    "title": "Pi",
+    "year": "1998",
+    "director": "Darren Aronofsky",
+    "actors": [
+      "Sean Gullette"
+    ],
+    "rating": 0,
+    "seen": false,
+    "genre": "Drama, Horror, Mystery",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTk3MThhNGEtY2E4NS00MWMwLTg4MzQtMTk4ZTcwYzRlNDNiXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg"
+  },
+  {
+    "title": "Public Enemies",
+    "year": "2009",
+    "director": "Michael Mann",
+    "actors": [
+      "Johnny Depp",
+      "Christian Bale"
+    ],
+    "rating": 0,
+    "seen": false,
+    "genre": "Action, Biography, Crime",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMGI4YTIxMDQtNDlmNC00ZDJhLWIyZGItM2QyODRiMTEzN2ViXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg"
+  },
+  {
+    "title": "Pulp Fiction",
+    "year": "1994",
+    "director": "Quentin Tarantino",
+    "actors": [
+      "John Travolta",
+      "Uma Thurman",
+      "Samuel L. Jackson"
+    ],
+    "rating": 100,
+    "seen": true,
+    "genre": "Crime, Drama",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGNhMDIzZTUtNTBlZi00MTRlLWFjM2ItYzViMjE3YzI5MjljXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg"
+  },
+  {
+    "title": "Raging Bull",
+    "year": "1980",
+    "director": "Martin Scorsese",
+    "actors": [
+      "Robert De Niro",
+      "Cathy Moriarty",
+      "Joe Pesci"
+    ],
+    "rating": 0,
+    "seen": false,
+    "genre": "Biography, Drama, Sport",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjRmODkzNDItMTNhNi00YjJlLTg0ZjAtODlhZTM0YzgzYThlXkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_SX300.jpg"
+  },
+  {
+    "title": "Red Dragon",
+    "year": "2002",
+    "director": "Brett Ratner",
+    "actors": [
+      "Edward Norton",
+      "Ralph Fiennes",
+      "Anthony Hopkins"
+    ],
+    "rating": 83,
+    "seen": true,
+    "genre": "Crime, Drama, Thriller",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTAwZDI1OTctN2Q5YS00OGNiLWIyMmUtYWM4ZGFjYWYyYzJjXkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_SX300.jpg"
+  },
+  {
+    "title": "Repo Man",
+    "year": "1984",
+    "director": "Alex Cox",
+    "actors": [
+      "Harry Dean Stanton",
+      "Emilio Estevez"
+    ],
+    "rating": 0,
+    "seen": false,
+    "genre": "Action, Comedy, Crime",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzdkMzVhNTgtMjlhNC00M2JkLWI3MzktYzdkNzYxNTk1NjcwXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg"
+  },
+  {
+    "title": "Requiem for a Dream",
+    "year": "2000",
+    "director": "Darren Aronofsky",
+    "actors": [
+      "Ellen Burstyn",
+      "Jared Leto",
+      "Jennifer Connelly"
+    ],
+    "rating": 82,
+    "seen": true,
+    "genre": "Drama",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTdiNzJlOWUtNWMwNS00NmFlLWI0YTEtZmI3YjIzZWUyY2Y3XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg"
+  },
+  {
+    "title": "Reservoir Dogs",
+    "year": "1992",
+    "director": "Quentin Tarantino",
+    "actors": [
+      "Harvey Keitel",
+      "Tim Roth",
+      "Michael Madsen"
+    ],
+    "rating": 89,
+    "seen": true,
+    "genre": "Crime, Thriller",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZmExNmEwYWItYmQzOS00YjA5LTk2MjktZjEyZDE1Y2QxNjA1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg"
+  },
+  {
+    "title": "Saving Private Ryan",
+    "year": "1998",
+    "director": "Steven Spielberg",
+    "actors": [
+      "Tom Hanks",
+      "Matt Damon",
+      "Edward Burns"
+    ],
+    "rating": 94,
+    "seen": true,
+    "genre": "Drama, War",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjhkMDM4MWItZTVjOC00ZDRhLThmYTAtM2I5NzBmNmNlMzI1XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_SX300.jpg"
+  },
+  {
+    "title": "Scent of a Woman",
+    "year": "1992",
+    "director": "Martin Brest",
+    "actors": [
+      "Al Pacino",
+      "Chris O'Donnell"
+    ],
+    "rating": 98,
+    "seen": true,
+    "genre": "Drama",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTM3ZjA3NTctZThkYy00ODYyLTk2ZjItZmE0MmZlMTk3YjQwXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SX300.jpg"
+  },
+  {
+    "title": "Schindler's List",
+    "year": "1993",
+    "director": "Steven Spielberg",
+    "actors": [
+      "Liam Neeson",
+      "Ben Kingsley",
+      "Ralph Fiennes"
+    ],
+    "rating": 92,
+    "seen": true,
+    "genre": "Biography, Drama, History",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDE4OTMxMTctNmRhYy00NWE2LTg3YzItYTk3M2UwOTU5Njg4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg"
+  },
+  {
+    "title": "Seven",
+    "year": "1995",
+    "director": "David Fincher",
+    "actors": [
+      "Brad Pitt",
+      "Morgan Freeman",
+      "Kevin Spacey"
+    ],
+    "rating": 94,
+    "seen": true,
+    "genre": "Action, Drama",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTkwY2I5NWMtMjNlNi00ZThjLWI4NzQtNDI4M2I4OGM1YjAzXkEyXkFqcGdeQXVyNzYxODE3NTQ@._V1_SX300.jpg"
+  },
+  {
+    "title": "Shrek",
+    "year": "2001",
+    "director": "Andrew Adamson, Vicky Jenson",
+    "actors": [
+      "Mike Myers",
+      "Eddie Murphy",
+      "Cameron Diaz"
+    ],
+    "rating": 85,
+    "seen": true,
+    "genre": "Animation, Adventure, Comedy",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOGZhM2FhNTItODAzNi00YjA0LWEyN2UtNjJlYWQzYzU1MDg5L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg"
+  },
+  {
+    "title": "Shrek 2",
+    "year": "2004",
+    "director": "Andrew Adamson, Kelly Asbury, Conrad Vernon",
+    "actors": [
+      "Mike Myers",
+      "Eddie Murphy",
+      "Cameron Diaz"
+    ],
+    "rating": 90,
+    "seen": true,
+    "genre": "Animation, Adventure, Comedy",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDJhMGRjN2QtNDUxYy00NGM3LThjNGQtMmZiZTRhNjM4YzUxL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg"
+  },
+  {
+    "title": "Shutter Island",
+    "year": "2010",
+    "director": "Martin Scorsese",
+    "actors": [
+      "Leonardo DiCaprio",
+      "Mark Ruffalo",
+      "Ben Kingsley"
+    ],
+    "rating": 92,
+    "seen": true,
+    "genre": "Drama, Mystery, Thriller",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzhiNDkyNzktNTZmYS00ZTBkLTk2MDAtM2U0YjU1MzgxZjgzXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg"
+  },
+  {
+    "title": "Signs",
+    "year": "2002",
+    "director": "M. Night Shyamalan",
+    "actors": [
+      "Mel Gibson",
+      "Joaquin Phoenix"
+    ],
+    "rating": 0,
+    "seen": false,
+    "genre": "Drama, Mystery, Sci-Fi",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDUwMDUyMDAyNF5BMl5BanBnXkFtZTYwMDQ3NzM3._V1_SX300.jpg"
+  },
+  {
+    "title": "Sleepers",
+    "year": "1996",
+    "director": "Barry Levinson",
+    "actors": [
+      "Kevin Bacon",
+      "Robert De Niro",
+      "Brad Pitt"
+    ],
+    "rating": 0,
+    "seen": false,
+    "genre": "Crime, Drama, Thriller",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzk1MmI4NzAtOGRiNS00YjY1LTllNmEtZDhiZDM4MjU2NTMxXkEyXkFqcGdeQXVyNjc3MjQzNTI@._V1_SX300.jpg"
+  },
+  {
+    "title": "Sophie's Choice",
+    "year": "1982",
+    "director": "Alan J. Pakula",
+    "actors": [
+      "Meryl Streep",
+      "Kevin Kline"
+    ],
+    "rating": 0,
+    "seen": false,
+    "genre": "Drama, Romance",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMmZjZTI0OTktNjVmMi00MzE5LWFkNjctNjZjODFjOWVjMGRmXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg"
+  },
+  {
+    "title": "Stalker",
+    "year": "1979",
+    "director": "Andrei Tarkovsky",
+    "actors": [
+      "Alexander Kaidanovsky"
+    ],
+    "rating": 0,
+    "seen": false,
+    "genre": "Drama, Sci-Fi",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTAzZmEzZjEtNmIzMS00MzlhLWE0Y2ItNDRlNTQwN2E0MDE4XkEyXkFqcGdeQXVyMzY0MTE3NzU@._V1_SX300.jpg"
+  },
+  {
+    "title": "Stand By Me",
+    "year": "1986",
+    "director": "Rob Reiner",
+    "actors": [
+      "Wil Wheaton",
+      "River Phoenix",
+      "Corey Feldman"
+    ],
+    "rating": 88,
+    "seen": true,
+    "genre": "Adventure, Comedy, Drama",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODJmY2Y2OGQtMDg2My00N2Q3LWJmZTUtYTc2ODBjZDVlNDlhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg"
+  },
+  {
+    "title": "Sunshine",
+    "year": "2007",
+    "director": "Danny Boyle",
+    "actors": [
+      "Cillian Murphy",
+      "Chris Evans",
+      "Rose Byrne"
+    ],
+    "rating": 0,
+    "seen": false,
+    "genre": "Sci-Fi, Thriller",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDliNGY4ZGQtMjU5MS00ODhjLWExMDEtNzI1NmIwZDkzZWQwXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg"
+  },
+  {
+    "title": "Taxi Driver",
+    "year": "1976",
+    "director": "Martin Scorsese",
+    "actors": [
+      "Robert De Niro",
+      "Jodie Foster"
+    ],
+    "rating": 93,
+    "seen": true,
+    "genre": "Crime, Drama",
+    "poster": "https://m.media-amazon.com/images/M/MV5BM2M1MmVhNDgtNmI0YS00ZDNmLTkyNjctNTJiYTQ2N2NmYzc2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg"
+  },
+  {
+    "title": "Terminator 2: Judgment Day",
+    "year": "1991",
+    "director": "James Cameron",
+    "actors": [
+      "Arnold Schwarzenegger",
+      "Linda Hamilton"
+    ],
+    "rating": 95,
+    "seen": true,
+    "genre": "Action, Adventure, Sci-Fi",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMGU2NzRmZjUtOGUxYS00ZjdjLWEwZWItY2NlM2JhNjkxNTFmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg"
+  },
+  {
+    "title": "The Big Lebowski",
+    "year": "1998",
+    "director": "Joel Coen",
+    "actors": [
+      "Jeff Bridges",
+      "John Goodman",
+      "Steve Buscemi"
+    ],
+    "rating": 85,
+    "seen": true,
+    "genre": "Comedy, Crime",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzliZDk0NjctNjhlOC00MWEyLWI3OWYtNjA5ZDYxMTMzNTc5XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg"
+  },
+  {
+    "title": "The Dark Knight",
+    "year": "2008",
+    "director": "Christopher Nolan",
+    "actors": [
+      "Christian Bale",
+      "Heath Ledger",
+      "Aaron Eckhart"
+    ],
+    "rating": 89,
+    "seen": true,
+    "genre": "Action, Crime, Drama",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_SX300.jpg"
+  },
+  {
+    "title": "The Departed",
+    "year": "2006",
+    "director": "Martin Scorsese",
+    "actors": [
+      "Leonardo DiCaprio",
+      "Matt Damon",
+      "Jack Nicholson"
+    ],
+    "rating": 0,
+    "seen": false,
+    "genre": "Crime, Drama, Thriller",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTI1MTY2OTIxNV5BMl5BanBnXkFtZTYwNjQ4NjY3._V1_SX300.jpg"
+  },
+  {
+    "title": "The Game",
+    "year": "1997",
+    "director": "David Fincher",
+    "actors": [
+      "Michael Douglas",
+      "Sean Penn"
+    ],
+    "rating": 0,
+    "seen": false,
+    "genre": "Drama, Mystery, Thriller",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNWQ2ODFhNWItNTA4NS00MzkyLTgyYzUtZjlhYWE5MmEzY2Q1XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg"
+  },
+  {
+    "title": "The Girl with the Dragon Tattoo",
+    "year": "2011",
+    "director": "David Fincher",
+    "actors": [
+      "Daniel Craig",
+      "Rooney Mara"
+    ],
+    "rating": 0,
+    "seen": false,
+    "genre": "Crime, Drama, Mystery",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTczNDk4NTQ0OV5BMl5BanBnXkFtZTcwNDAxMDgxNw@@._V1_SX300.jpg"
+  },
+  {
+    "title": "The Godfather",
+    "year": "1972",
+    "director": "Francis Ford Coppola",
+    "actors": [
+      "Marlon Brando",
+      "Al Pacino"
+    ],
+    "rating": 100,
+    "seen": true,
+    "genre": "Crime, Drama",
+    "poster": "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg"
+  },
+  {
+    "title": "The Godfather Part II",
+    "year": "1974",
+    "director": "Francis Ford Coppola",
+    "actors": [
+      "Al Pacino",
+      "Robert De Niro"
+    ],
+    "rating": 100,
+    "seen": true,
+    "genre": "Crime, Drama",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWMwMGQzZTItY2JlNC00OWZiLWIyMDctNDk2ZDQ2YjRjMWQ0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg"
+  },
+  {
+    "title": "The Godfather Part III",
+    "year": "1990",
+    "director": "Francis Ford Coppola",
+    "actors": [
+      "Al Pacino",
+      "Andy Garcia"
+    ],
+    "rating": 0,
+    "seen": false,
+    "genre": "Crime, Drama",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNWFlYWY2YjYtNjdhNi00MzVlLTg2MTMtMWExNzg4NmM5NmEzXkEyXkFqcGdeQXVyMDk5Mzc5MQ@@._V1_SX300.jpg"
+  },
+  {
+    "title": "The Good, the Bad and the Ugly",
+    "year": "1966",
+    "director": "Sergio Leone",
+    "actors": [
+      "Clint Eastwood",
+      "Eli Wallach",
+      "Lee Van Cleef"
+    ],
+    "rating": 0,
+    "seen": false,
+    "genre": "Adventure, Western",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjJlYmNkZGItM2NhYy00MjlmLTk5NmQtNjg1NmM2ODU4OTMwXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg"
+  },
+  {
+    "title": "The Green Mile",
+    "year": "1999",
+    "director": "Frank Darabont",
+    "actors": [
+      "Tom Hanks",
+      "Michael Clarke Duncan"
+    ],
+    "rating": 0,
+    "seen": false,
+    "genre": "Crime, Drama, Fantasy",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTUxMzQyNjA5MF5BMl5BanBnXkFtZTYwOTU2NTY3._V1_SX300.jpg"
+  },
+  {
+    "title": "The Hateful Eight",
+    "year": "2015",
+    "director": "Quentin Tarantino",
+    "actors": [
+      "Samuel L. Jackson",
+      "Kurt Russell",
+      "Jennifer Jason Leigh"
+    ],
+    "rating": 94,
+    "seen": true,
+    "genre": "Crime, Drama, Mystery",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA1MTc1NTg5NV5BMl5BanBnXkFtZTgwOTM2MDEzNzE@._V1_SX300.jpg"
+  },
+  {
+    "title": "The Lives of Others",
+    "year": "2006",
+    "director": "Florian Henckel von Donnersmarck",
+    "actors": [
+      "Ulrich Mühe",
+      "Martina Gedeck"
+    ],
+    "rating": 0,
+    "seen": false,
+    "genre": "Drama, Mystery, Thriller",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNmQyNmJjM2ItNTQzYi00ZjMxLWFjMDYtZjUyN2YwZDk5YWQ2XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg"
+  },
+  {
+    "title": "The Martian",
+    "year": "2015",
+    "director": "Ridley Scott",
+    "actors": [
+      "Matt Damon"
+    ],
+    "rating": 89,
+    "seen": true,
+    "genre": "Adventure, Drama, Sci-Fi",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTc2MTQ3MDA1Nl5BMl5BanBnXkFtZTgwODA3OTI4NjE@._V1_SX300.jpg"
+  },
+  {
+    "title": "The Pianist",
+    "year": "2002",
+    "director": "Roman Polanski",
+    "actors": [
+      "Adrien Brody"
+    ],
+    "rating": 100,
+    "seen": true,
+    "genre": "Biography, Drama, Music",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOWRiZDIxZjktMTA1NC00MDQ2LWEzMjUtMTliZmY3NjQ3ODJiXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg"
+  },
+  {
+    "title": "The Prestige",
+    "year": "2006",
+    "director": "Christopher Nolan",
+    "actors": [
+      "Christian Bale",
+      "Hugh Jackman"
+    ],
+    "rating": 0,
+    "seen": false,
+    "genre": "Drama, Mystery, Sci-Fi",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA4NDI0MTIxNF5BMl5BanBnXkFtZTYwNTM0MzY2._V1_SX300.jpg"
+  },
+  {
+    "title": "The Pursuit of Happyness",
+    "year": "2006",
+    "director": "Gabriele Muccino",
+    "actors": [
+      "Will Smith",
+      "Jaden Smith"
+    ],
+    "rating": 88,
+    "seen": true,
+    "genre": "Biography, Drama",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTQ5NjQ0NDI3NF5BMl5BanBnXkFtZTcwNDI0MjEzMw@@._V1_SX300.jpg"
+  },
+  {
+    "title": "The Room",
+    "year": "2003",
+    "director": "Tommy Wiseau",
+    "actors": [
+      "Tommy Wiseau",
+      "Juliette Danielle",
+      "Greg Sestero"
+    ],
+    "rating": 0,
+    "seen": false,
+    "genre": "Drama",
+    "poster": "https://m.media-amazon.com/images/M/MV5BN2IwYzc4MjEtMzJlMS00MDJlLTkzNDAtN2E4NGNkZjg0MDgxXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_SX300.jpg"
+  },
+  {
+    "title": "The Shape of Water",
+    "year": "2017",
+    "director": "Guillermo del Toro",
+    "actors": [
+      "Sally Hawkins",
+      "Doug Jones",
+      "Michael Shannon"
+    ],
+    "rating": 0,
+    "seen": false,
+    "genre": "Drama, Fantasy, Romance",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGNiNWQ5M2MtNGI0OC00MDA2LWI5NzEtMmZiYjVjMDEyOWYzXkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_SX300.jpg"
+  },
+  {
+    "title": "The Shawshank Redemption",
+    "year": "1994",
+    "director": "Frank Darabont",
+    "actors": [
+      "Tim Robbins",
+      "Morgan Freeman"
+    ],
+    "rating": 94,
+    "seen": true,
+    "genre": "Drama",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDE3ODcxYzMtY2YzZC00NmNlLWJiNDMtZDViZWM2MzIxZDYwXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_SX300.jpg"
+  },
+  {
+    "title": "The Silence of the Lambs",
+    "year": "1991",
+    "director": "Jonathan Demme",
+    "actors": [
+      "Jodie Foster",
+      "Anthony Hopkins"
+    ],
+    "rating": 98,
+    "seen": true,
+    "genre": "Crime, Drama, Thriller",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjNhZTk0ZmEtNjJhMi00YzFlLWE1MmEtYzM1M2ZmMGMwMTU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg"
+  },
+  {
+    "title": "The Sixth Sense",
+    "year": "1999",
+    "director": "M. Night Shyamalan",
+    "actors": [
+      "Bruce Willis",
+      "Haley Joel Osment"
+    ],
+    "rating": 0,
+    "seen": false,
+    "genre": "Drama, Mystery, Thriller",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWM4NTFhYjctNzUyNi00NGMwLTk3NTYtMDIyNTZmMzRlYmQyXkEyXkFqcGdeQXVyMTAwMzUyOTc@._V1_SX300.jpg"
+  },
+  {
+    "title": "The Theory of Everything",
+    "year": "2014",
+    "director": "James Marsh",
+    "actors": [
+      "Eddie Redmayne",
+      "Felicity Jones"
+    ],
+    "rating": 89,
+    "seen": true,
+    "genre": "Biography, Drama, Romance",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTAwMTU4MDA3NDNeQTJeQWpwZ15BbWU4MDk4NTMxNTIx._V1_SX300.jpg"
+  },
+  {
+    "title": "The Thing",
+    "year": "1982",
+    "director": "John Carpenter",
+    "actors": [
+      "Kurt Russell"
+    ],
+    "rating": 0,
+    "seen": false,
+    "genre": "Horror, Mystery, Sci-Fi",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGViZWZmM2EtNGYzZi00ZDAyLTk3ODMtNzIyZTBjN2Y1NmM1XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg"
+  },
+  {
+    "title": "The Truman Show",
+    "year": "1998",
+    "director": "Peter Weir",
+    "actors": [
+      "Jim Carrey",
+      "Laura Linney"
+    ],
+    "rating": 88,
+    "seen": true,
+    "genre": "Comedy, Drama",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDIzODcyY2EtMmY2MC00ZWVlLTgwMzAtMjQwOWUyNmJjNTYyXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SX300.jpg"
+  },
+  {
+    "title": "The Wolf of Wall Street",
+    "year": "2013",
+    "director": "Martin Scorsese",
+    "actors": [
+      "Leonardo DiCaprio",
+      "Jonah Hill"
+    ],
+    "rating": 94,
+    "seen": true,
+    "genre": "Biography, Comedy, Crime",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjIxMjgxNTk0MF5BMl5BanBnXkFtZTgwNjIyOTg2MDE@._V1_SX300.jpg"
+  },
+  {
+    "title": "The Zone of Interest",
+    "year": "2023",
+    "director": "Jonathan Glazer",
+    "actors": [
+      "Sandra Hüller",
+      "Christian Friedel"
+    ],
+    "rating": 76,
+    "seen": true,
+    "genre": "Drama, History, War",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzRmOGQwZjktYjM2Ni00M2NmLWFlZDYtZGFhM2RkM2VhZDI1XkEyXkFqcGdeQXVyMTM1NjM2ODg1._V1_SX300.jpg"
+  },
+  {
+    "title": "There Will Be Blood",
+    "year": "2007",
+    "director": "Paul Thomas Anderson",
+    "actors": [
+      "Daniel Day-Lewis"
+    ],
+    "rating": 0,
+    "seen": false,
+    "genre": "Drama",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjAxODQ4MDU5NV5BMl5BanBnXkFtZTcwMDU4MjU1MQ@@._V1_SX300.jpg"
+  },
+  {
+    "title": "Training Day",
+    "year": "2001",
+    "director": "Antoine Fuqua",
+    "actors": [
+      "Denzel Washington",
+      "Ethan Hawke"
+    ],
+    "rating": 99,
+    "seen": true,
+    "genre": "Crime, Drama, Thriller",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDZkMTUxYWEtMDY5NS00ZTA5LTg3MTItNTlkZWE1YWRjYjMwL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg"
+  },
+  {
+    "title": "Troy",
+    "year": "2004",
+    "director": "Wolfgang Petersen",
+    "actors": [
+      "Brad Pitt",
+      "Eric Bana",
+      "Orlando Bloom"
+    ],
+    "rating": 92,
+    "seen": true,
+    "genre": "Adventure, Drama",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTk5MzU1MDMwMF5BMl5BanBnXkFtZTcwNjczODMzMw@@._V1_SX300.jpg"
+  },
+  {
+    "title": "True Romance",
+    "year": "1993",
+    "director": "Tony Scott",
+    "actors": [
+      "Christian Slater",
+      "Patricia Arquette"
+    ],
+    "rating": 0,
+    "seen": false,
+    "genre": "Crime, Drama, Romance",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYWRhYWJjNGEtMjNhNi00NzFkLTk1ZGUtNjNmM2FlNTNhNWRjXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg"
+  },
+  {
+    "title": "Tucker and Dale vs Evil",
+    "year": "2010",
+    "director": "Eli Craig",
+    "actors": [
+      "Tyler Labine",
+      "Alan Tudyk"
+    ],
+    "rating": 0,
+    "seen": false,
+    "genre": "Comedy, Horror",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODQ5NDQ0MjkwMF5BMl5BanBnXkFtZTcwNDg1OTU4NQ@@._V1_SX300.jpg"
+  },
+  {
+    "title": "V for Vendetta",
+    "year": "2005",
+    "director": "James McTeigue",
+    "actors": [
+      "Natalie Portman",
+      "Hugo Weaving"
+    ],
+    "rating": 0,
+    "seen": false,
+    "genre": "Action, Drama, Sci-Fi",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTI5ODc3NzExNV5BMl5BanBnXkFtZTcwNzYxNzQzMw@@._V1_SX300.jpg"
+  },
+  {
+    "title": "Van Helsing",
+    "year": "2004",
+    "director": "Stephen Sommers",
+    "actors": [
+      "Hugh Jackman",
+      "Kate Beckinsale"
+    ],
+    "rating": 81,
+    "seen": true,
+    "genre": "Action, Adventure, Fantasy",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODRmY2NhNDItOWViNi00OTIyLTk3YjYtYzY0YTFlMDg1YzQ0L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg"
+  },
+  {
+    "title": "We Need to Talk About Kevin",
+    "year": "2011",
+    "director": "Lynne Ramsay",
+    "actors": [
+      "Tilda Swinton",
+      "Ezra Miller",
+      "John C. Reilly"
+    ],
+    "rating": 0,
+    "seen": false,
+    "genre": "Drama, Mystery, Thriller",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjE0NDE0MjYxNF5BMl5BanBnXkFtZTcwNjM2NTY5Ng@@._V1_SX300.jpg"
+  },
+  {
+    "title": "What's Eating Gilbert Grape",
+    "year": "1993",
+    "director": "Lasse Hallström",
+    "actors": [
+      "Johnny Depp",
+      "Leonardo DiCaprio"
+    ],
+    "rating": 93,
+    "seen": true,
+    "genre": "Drama",
+    "poster": "https://m.media-amazon.com/images/M/MV5BY2EyZDlhNjItODYzNi00Mzc3LWJjOWUtMTViODU5MTExZWMyL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg"
+  },
+  {
+    "title": "World War Z",
+    "year": "2013",
+    "director": "Marc Forster",
+    "actors": [
+      "Brad Pitt",
+      "Mireille Enos"
+    ],
+    "rating": 0,
+    "seen": false,
+    "genre": "Action, Adventure, Horror",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDQ4YzFmNzktMmM5ZC00MDZjLTk1OTktNDE2ODE4YjM2MjJjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SX300.jpg"
+  },
+  {
+    "title": "Zodiac",
+    "year": "2007",
+    "director": "David Fincher",
+    "actors": [
+      "Jake Gyllenhaal",
+      "Robert Downey Jr.",
+      "Mark Ruffalo"
+    ],
+    "rating": 0,
+    "seen": false,
+    "genre": "Crime, Drama, Mystery",
+    "poster": "https://m.media-amazon.com/images/M/MV5BN2UwNDc5NmEtNjVjZS00OTI5LWE5YjctMWM3ZjBiZGYwMGI2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg"
+  },
+  {
+    "title": "Titanic",
+    "year": "1997",
+    "director": "James Cameron",
+    "actors": [
+      "Leonardo DiCaprio",
+      "Kate Winslet",
+      "Billy Zane"
+    ],
+    "rating": 89,
+    "seen": true,
+    "genre": "Drama, Romance",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDdmZGU3NDQtY2E5My00ZTliLWIzOTUtMTY4ZGI1YjdiNjk3XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SX300.jpg"
+  },
+  {
+    "title": "Secret",
+    "year": "2007",
+    "director": "Jay Chou",
+    "actors": [
+      "Jay Chou",
+      "Gwei Lun-Mei",
+      "Anthony Chau-Sang Wong"
+    ],
+    "rating": 79,
+    "seen": true,
+    "genre": "Drama, Music, Romance",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYWVjNzNjNDUtZGQ4ZC00ZDE1LWE3ZmEtMmYzMzU1NWUwNzc5XkEyXkFqcGdeQXVyMjQwMjk0NjI@._V1_SX300.jpg"
+  },
+  {
+    "title": "Harry Potter and the Deathly Hallows: Part 2",
+    "year": "2011",
+    "director": "David Yates",
+    "actors": [
+      "Daniel Radcliffe",
+      "Emma Watson",
+      "Rupert Grint"
+    ],
+    "rating": 100,
+    "seen": true,
+    "genre": "Adventure, Family, Fantasy",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMGVmMWNiMDktYjQ0Mi00MWIxLTk0N2UtN2ZlYTdkN2IzNDNlXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SX300.jpg"
+  }
+]
