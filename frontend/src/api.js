@@ -2,10 +2,12 @@ import axios from "axios";
 
 const PORT = 5001;
 const URL = `http://localhost:${PORT}`;
+const REACT_APP_API_URL = process.env.REACT_APP_API_URL;
+const ENDPOINT = REACT_APP_API_URL || URL
 
 export const getMovies = async () => {
   try {
-    const response = await axios.get(`${URL}/movies`);
+    const response = await axios.get(`${ENDPOINT}/movies`);
     return response.data;
   } catch (error) {
     console.error("Error fetching movies:", error);
@@ -15,7 +17,7 @@ export const getMovies = async () => {
 
 export const getMovie = async (title) => {
   try {
-    const response = await axios.get(`${URL}/getMovie/${title}`);
+    const response = await axios.get(`${ENDPOINT}/getMovie/${title}`);
     return response.data;
   } catch (error) {
     console.error("Error fetching movie details:", error);
@@ -25,7 +27,7 @@ export const getMovie = async (title) => {
 
 export const addMovie = async (movie) => {
   try {
-    const response = await axios.post(`${URL}/addMovie`, movie);
+    const response = await axios.post(`${ENDPOINT}/addMovie`, movie);
     return response.data;
   } catch (error) {
     console.error("Error adding movie:", error);
@@ -35,7 +37,7 @@ export const addMovie = async (movie) => {
 
 export const updateMovie = async (title, updates) => {
   try {
-    const response = await axios.put(`${URL}/updateMovie/${title}`, updates);
+    const response = await axios.put(`${ENDPOINT}/updateMovie/${title}`, updates);
     return response.data;
   } catch (error) {
     console.error("Error updating movie:", error);
