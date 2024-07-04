@@ -1,9 +1,10 @@
 import axios from "axios";
 
-const PORT = 5001;
-const URL = `http://localhost:${PORT}`;
-const REACT_APP_API_URL = process.env.REACT_APP_API_URL;
-const ENDPOINT = REACT_APP_API_URL || URL
+// const PORT = 5001;
+// const URL = `http://localhost:${PORT}`;
+// const REACT_APP_API_URL = process.env.REACT_APP_API_URL;
+// const ENDPOINT = REACT_APP_API_URL || URL
+const ENDPOINT = 'https://movies-api-3wed.onrender.com';
 
 export const getMovies = async () => {
   try {
