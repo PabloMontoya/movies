@@ -3,16 +3,18 @@ version: "3.8"
 services:
   frontend:
     build:
-      context: .
-      dockerfile: ./frontend/Dockerfile.prod
+      context: ./frontend
+      dockerfile: Dockerfile.prod
     ports:
       - "80:80"
-    depends_on:
-      - api
+    env_file:
+      - ./frontend/.env
 
   api:
     build:
-      context: .
-      dockerfile: ./api/Dockerfile.prod
+      context: ./api
+      dockerfile: Dockerfile.prod
     ports:
       - "5001:5001"
+    env_file:
+      - ./api/.env

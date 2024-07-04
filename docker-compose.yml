@@ -24,3 +24,5 @@ services:
     ports:
       - "5001:5001"
     command: ["npm", "run", "dev"]
+    env_file:
+      - ./api/.env

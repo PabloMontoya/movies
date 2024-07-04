@@ -1,14 +1,17 @@
 # Set up the Express API
-FROM node:14 AS api
+FROM node:16 AS api
 
 # Set the working directory
 WORKDIR /app
 
 # Copy the API code
-COPY ./api .
+COPY . .
 
 # Install dependencies
 RUN npm install
+
+# Copy .env file
+COPY .env .env
 
 # Expose the port the API runs on
 EXPOSE 5001
