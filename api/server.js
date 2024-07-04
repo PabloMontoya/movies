@@ -19,8 +19,8 @@ async function connect() {
     await mongoose.connect(mongoUri, clientOptions);
     await mongoose.connection.db.admin().command({ ping: 1 });
     console.log("Pinged your deployment. You successfully connected to MongoDB!");
-  } catch {
-    console.log('disconnected')
+  } catch (e) {
+    console.log('error:', e);
   }
 }
 connect().catch(console.dir);
